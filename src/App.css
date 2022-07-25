@@ -1,0 +1,43 @@
+/*Changes color of text*/
+.someColor {
+  color: pink;
+}
+
+/*Flex container*/
+.flexbox-container {
+  display: flex;
+  
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  
+ 
+}
+
+/*Center a element*/
+.Center {
+  width: 100%;
+  text-align:center
+}
+
+/*Styling to h2 tags*/
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  max-width: 350px;
+  text-align: center;
+}
+
+/*Styling to button*/
+button {
+  background-color: gray;
+  
+}
+
+/*Background color*/
+body {
+  background-color:cadetblue
+}
+
+
+
